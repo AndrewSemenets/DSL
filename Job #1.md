@@ -13,5 +13,3 @@
 1. рядки вихідного списку не містять елементів множини `whitespaces`.
 
 При цьому має бути забезпечено нечутливість коду функції до змін множини `whitespaces`. 
-
-Решение: https://colab.research.google.com/drive/12NKjbF4XK-BQriy2SlIlI7eqsGHbgj1g?usp=sharing
